@@ -10,4 +10,12 @@ ___List of Maps In The Pack___
 - Queensdale
 - Wayfarer Foothills
 
+___Trails without Informative Markers are also implemented for___
+- Plains of Ashford
+- Brisband Wildlands
+- Diessa Plateau
+- Kessex Hills
+- Snowden Drifts 
+- Metrica Province
+- 
 ## **Your feedback is appreciated!**
