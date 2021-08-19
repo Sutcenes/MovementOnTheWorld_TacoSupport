@@ -17,7 +17,8 @@ ___Trails without Informative Markers are also implemented for___
 - Kessex Hills
 - Snowden Drifts 
 - Metrica Province
-(These are not visible to the user unless they extract the achives and generate an associated .xml file with the following code :
+
+These are not visible to the user unless they extract the achives and generate an associated .xml file with the following code :
 ```
 <OverlayData>
 	<MarkerCategory name="MoW" DisplayName="Movement On The World">
