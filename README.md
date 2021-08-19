@@ -17,5 +17,5 @@ ___Trails without Informative Markers are also implemented for___
 - Kessex Hills
 - Snowden Drifts 
 - Metrica Province
-- 
+
 ## **Your feedback is appreciated!**
