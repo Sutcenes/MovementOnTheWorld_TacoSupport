@@ -12,7 +12,7 @@ ___List of Maps In The Pack___
 
 ___Trails without Informative Markers are also implemented for___
 - Plains of Ashford
-- Brisband Wildlands
+- Brisban Wildlands
 - Diessa Plateau
 - Kessex Hills
 - Snowden Drifts 
