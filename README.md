@@ -9,14 +9,15 @@ ___List of Maps In The Pack___
 - Caledon Forest
 - Queensdale
 - Wayfarer Foothills
+- Plains of Ashford
+- Metrica Province
 
 ___Trails without Informative Markers are also implemented for___
-- Plains of Ashford
 - Brisban Wildlands
 - Diessa Plateau
 - Kessex Hills
 - Snowden Drifts 
-- Metrica Province
+
 
 These are not visible to the user unless they extract the achives and generate an associated .xml file with the following code :
 ```
