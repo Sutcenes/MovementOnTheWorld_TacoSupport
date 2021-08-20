@@ -22,16 +22,10 @@ ___Trails without Informative Markers are also implemented for___
 These are not visible to the user unless they extract the achives and generate an associated .xml file with the following code :
 ```
 <OverlayData>
-	<MarkerCategory name="MoW" DisplayName="Movement On The World">
-		<MarkerCategory name="Makers" iconFile="Data/MoWMaker.png" behavior="1" fadeNear="4000" fadeFar="5000" infoRange="10" autoTrigger="false"/>
-		<MarkerCategory name="MakersWaypoint" iconFile="Data/MoWWPMaker.png" behavior="1" fadeNear="1000" fadeFar="1500" infoRange="10" autoTrigger="false"/>
-		<!--For higher visibility Markers use fadeNear="4000" fadeFar="5000"-->
-        <MarkerCategory name="Roads" texture="Data/MoWT.png"/>
-    </MarkerCategory>
-	<POIs>
-    <!-- In the following line, modify the NameOfTrail as convenient -->
+    <POIs>
+    <!-- In the following line, modify the "NameOfTrail" as convenient -->
 		<Trail trailData="Trails/NameOfTrail.trl" animSpeed="0.5" alpha="1" type="MoW.Roads" fadeNear="500" fadeFar="1000"/>
-  </POIs>
+    </POIs>
 </OverlayData>
 ```
 
