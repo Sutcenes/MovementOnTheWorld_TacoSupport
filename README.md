@@ -10,10 +10,10 @@ ___List of Maps In The Pack___
 - Plains of Ashford
 - Metrica Province
 - Brisban Wildlands
+- Kessex Hills
 
 ___Trails without Informative Markers are also implemented for___
 - Diessa Plateau
-- Kessex Hills
 - Snowden Drifts 
 - Lornar's Pass
 
