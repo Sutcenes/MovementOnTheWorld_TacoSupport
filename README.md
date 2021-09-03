@@ -11,10 +11,13 @@ ___List of Maps In The Pack___
 - Metrica Province
 - Brisban Wildlands
 - Kessex Hills
-
-___Trails without Informative Markers are also implemented for___
 - Diessa Plateau
 - Snowden Drifts 
 - Lornar's Pass
+
+___Trails without Informative Markers are also implemented for___
+- Field of Ruins
+- Gendarran Fields
+- Harathi Hinterlands
 
 ## **Your feedback is appreciated!**
