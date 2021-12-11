@@ -16,11 +16,14 @@ ___List of Maps In The Pack___
 - Lornar's Pass
 - Gendarran Fields
 - Harathi Hinterlands
+- Field of Ruins
+- Blootide Coast
+- Sparkfly Fen
+- Mount Maelstrom
 
 ___Trails without Informative Markers are also implemented for___
-- Field of Ruins
 - Dregdehaunt Cliffs
-- Blootide Coast
+
 
 
 ## **Your feedback is appreciated!**
