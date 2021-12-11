@@ -18,8 +18,8 @@ ___List of Maps In The Pack___
 - Harathi Hinterlands
 - Field of Ruins
 - Blootide Coast
-- Sparkfly Fen
-- Mount Maelstrom
+- Sparkfly Fen (no trail)
+- Mount Maelstrom (no trail)
 
 ___Trails without Informative Markers are also implemented for___
 - Dregdehaunt Cliffs
