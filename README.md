@@ -4,6 +4,7 @@ The Movement on the World tour map guides for guildwars 2 on Taco !
 Simply put the "MoW_TacO.taco" into the *POIs* folder of the Taco App OR the "MoW.taco" into the *markers* folder of your Blish-HUD installation. Tutorial in the [Wiki](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki) section.
 
 __List of Maps with Champion Markers__
+
 All Core
 
 ___List of Maps In The Pack (MoW)___
