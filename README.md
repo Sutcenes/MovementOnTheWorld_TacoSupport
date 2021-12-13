@@ -26,9 +26,9 @@ ___List of Maps In The Pack (MoW)___
 
 ___Trails without Informative Markers are also implemented for___
 - Dregdehaunt Cliffs
-
-___Markers without Text are also implemented for___
 - Timberlines Fall
+- 
+___Markers without Text are also implemented for___
 - Strait of Devastation
 
 
