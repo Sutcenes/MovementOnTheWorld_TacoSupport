@@ -23,11 +23,12 @@ ___List of Maps In The Pack (MoW)___
 - Blootide Coast
 - Sparkfly Fen 
 - Mount Maelstrom
+- Blazeridge Steppes (one JP not fully complete)
 
 ___Trails without Informative Markers are also implemented for___
 - Dregdehaunt Cliffs
 - Timberlines Fall
 - Strait of Devastation
-- Blazeridge Steppes
+
 
 ## **Your feedback is appreciated!**
