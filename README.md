@@ -40,4 +40,7 @@ ___ToDo___
 - Malchor's Leap
 - Cursed Shore
 
+__But What About No-Core Zones?__
+- Coming waaay later :D
+
 ## **Your feedback is appreciated!**
