@@ -29,7 +29,7 @@ ___List of Maps In The Pack (MoW)___
 - Mount Maelstrom
 - Blazeridge Steppes (one JP not fully complete)
 - Dregdehaunt Cliffs
-- - Timberlines Fall
+- Timberlines Fall
 
 ___Trails without Informative Markers are also implemented for___
 - Strait of Devastation
