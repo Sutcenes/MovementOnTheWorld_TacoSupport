@@ -1,5 +1,6 @@
 # MovementOnTheWorld_TacoSupport
 The Movement on the World tour map guides for guildwars 2 on BLISH-HUD ! 
+
 To get some ideas of what you can do with it, check [Wiki](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki) section.
 
 Simply use the auto-update system of Blish-HUD. Else put the "MoW.taco" into the *markers* folder of your Blish-HUD installation. Tutorial in the [Wiki](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki) section.
