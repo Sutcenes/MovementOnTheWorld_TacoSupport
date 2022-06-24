@@ -29,10 +29,15 @@ ___List of Maps In The Pack (MoW)___
 - Mount Maelstrom
 - Blazeridge Steppes (one JP not fully complete)
 - Dregdehaunt Cliffs
+- - Timberlines Fall
 
 ___Trails without Informative Markers are also implemented for___
-- Timberlines Fall
 - Strait of Devastation
 
+___ToDo___
+- Fireheart Rise
+- Frostgorge Sound
+- Malchor's Leap
+- Cursed Shore
 
 ## **Your feedback is appreciated!**
