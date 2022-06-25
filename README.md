@@ -30,9 +30,10 @@ ___List of Maps In The Pack (MoW)___
 - Blazeridge Steppes (one JP not fully complete)
 - Dregdehaunt Cliffs
 - Timberlines Fall
+- Strait of Devastation
 
 ___Trails without Informative Markers are also implemented for___
-- Strait of Devastation
+
 
 ___ToDo___
 - Fireheart Rise
