@@ -33,15 +33,18 @@ ___List of Maps In The Pack (MoW)___
 - Strait of Devastation
 
 ___Trails without Informative Markers are also implemented for___
-
-
-___ToDo___
 - Fireheart Rise
 - Frostgorge Sound
 - Malchor's Leap
 - Cursed Shore
+- Iron Marches
 
-__But What About No-Core Zones?__
+___ToDo___
+- Southsun Cove
+- Dry Top
+- The Silverwastes
+
+__But What About Other Zones?__
 - Coming waaay later :D
 
 ## **Your feedback is appreciated!**
