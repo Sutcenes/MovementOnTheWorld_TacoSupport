@@ -1,4 +1,4 @@
-# MovementOnTheWorld_TacoSupport
+# Movement On The World (Blish-HUD // TacO)
 The Movement on the World tour map guides for guildwars 2 on BLISH-HUD ! 
 
 To get some ideas of what you can do with it, check [Wiki](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki) section.
