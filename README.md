@@ -48,3 +48,6 @@ __But What About Other Zones?__
 - Coming waaay later :D
 
 ## **Your feedback is appreciated!**
+
+## Extra Note for Curious People
+The Taco.zip file contains some scripts and folder architecture used to generate the pack and create TacO & Blish-HUD compatible file.
