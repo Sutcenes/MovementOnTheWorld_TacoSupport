@@ -12,6 +12,7 @@ ___List of Maps with Champion Markers___
 
 ___List of Maps In The Pack (MoW)___
 - All Core
+- Southsun Cove
 
 ___Maps with Trails and Markers not thouroughly tested (MoW)___
 - Fireheart Rise
