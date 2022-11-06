@@ -11,36 +11,20 @@ ___List of Maps with Champion Markers___
 - All Core
 
 ___List of Maps In The Pack (MoW)___
-- Caledon Forest
-- Queensdale
-- Wayfarer Foothills
-- Plains of Ashford
-- Metrica Province
-- Brisban Wildlands
-- Kessex Hills
-- Diessa Plateau
-- Snowden Drifts 
-- Lornar's Pass
-- Gendarran Fields
-- Harathi Hinterlands
-- Field of Ruins
-- Blootide Coast
-- Sparkfly Fen 
-- Mount Maelstrom
-- Blazeridge Steppes (one JP not fully complete)
-- Dregdehaunt Cliffs
-- Timberlines Fall
-- Strait of Devastation
+- All Core
 
-___Trails without Informative Markers are also implemented for___
+___Maps with Trails and Markers not thouroughly tested (MoW)___
 - Fireheart Rise
 - Frostgorge Sound
 - Malchor's Leap
 - Cursed Shore
 - Iron Marches
+- Southsun Cove
+
+___Trails without Informative Markers are also implemented for___
+- None
 
 ___ToDo___
-- Southsun Cove
 - Dry Top
 - The Silverwastes
 
