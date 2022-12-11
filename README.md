@@ -13,21 +13,21 @@ ___List of Maps with Champion Markers___
 ___List of Maps In The Pack (MoW)___
 - All Core
 - Southsun Cove
+- Dry Top
 
 ___Maps with Trails and Markers not thouroughly tested (MoW)___
 - Fireheart Rise
-- Frostgorge Sound
 - Malchor's Leap
 - Cursed Shore
 - Iron Marches
 - Southsun Cove
 
+
 ___Trails without Informative Markers are also implemented for___
-- None
+- The Silverwastes
 
 ___ToDo___
-- Dry Top
-- The Silverwastes
+- Heart of Thorns
 
 __But What About Other Zones?__
 - Coming waaay later :D
