@@ -9,6 +9,8 @@ Simply use the auto-update system of Blish-HUD or TacO. Else put the "MoW.taco" 
 
 You can get an overview of the work at: https://mp-repo.blishhud.com/MoW.taco.html
 
+*All maps and markers are always subjected to change, especially because English is my second language and some of the markers display truly awful paragraphs!*
+
 ___List of Maps with Champion Markers___
 - All Core
 
@@ -16,19 +18,20 @@ ___List of Maps In The Pack (MoW)___
 - All Core
 - Southsun Cove
 - Dry Top
+- The Silverwastes
 
-___Maps with Trails and Markers not thouroughly tested (MoW)___
+___Maps with Trails and Markers not tested (MoW)___
 - Fireheart Rise
 - Malchor's Leap
 - Cursed Shore
 - Iron Marches
 - Southsun Cove
-
-
-___Trails without Informative Markers are also implemented for___
 - The Silverwastes
 
-___ToDo___
+___Trails without Informative Markers are also implemented for___
+- Verdant Brinks
+
+___Backstage Work In Progress___
 - Heart of Thorns
 
 __But What About Other Zones?__
