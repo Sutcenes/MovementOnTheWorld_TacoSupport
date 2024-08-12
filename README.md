@@ -1,7 +1,7 @@
 # Movement On The World (Blish-HUD // TacO)
 The Movement on the World tour map guides for Guildwars 2 on BLISH-HUD & TacO ! 
 
-**TO GIVE FEEDBACK :** https://discord.gg/FP8dQj6KBj 
+**TO GIVE FEEDBACK :** https://discord.gg/FP8dQj6KBj (thanks to Metallis for hosting me there :D)
 
 To get some ideas of what you can do with it, check [Wiki](https://github.com/Sutcenes/MovementOnTheWorld_TacoSupport/wiki) section.
 
