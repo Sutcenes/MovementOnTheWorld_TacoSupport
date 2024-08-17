@@ -27,9 +27,10 @@ ___Maps with Trails and Markers not tested (MoW)___
 - Iron Marches
 - Southsun Cove
 - The Silverwastes
+- Verdant Brinks
 
 ___Trails without Informative Markers are also implemented for___
-- Verdant Brinks
+
 
 ___Backstage Work In Progress___
 - Heart of Thorns
