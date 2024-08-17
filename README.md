@@ -19,6 +19,7 @@ ___List of Maps In The Pack (MoW)___
 - Southsun Cove
 - Dry Top
 - The Silverwastes
+- Verdant Brinks
 
 ___Maps with Trails and Markers not tested (MoW)___
 - Fireheart Rise
