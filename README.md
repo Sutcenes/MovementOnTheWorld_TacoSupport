@@ -34,12 +34,9 @@ ___Trails without Informative Markers are also implemented for___
 
 
 ___Backstage Work In Progress___
-- Heart of Thorns
+- Auric Bassin (30%)
+- Tangled Depth (10%)
+- Dragon's Stand (0%)
 
 __But What About Other Zones?__
 - Coming waaay later :D
-
-## **Your feedback is appreciated!**
-
-## Extra Note for Curious People
-The Taco.zip file contains some scripts and folder architecture used to generate the pack and create TacO & Blish-HUD compatible file.
