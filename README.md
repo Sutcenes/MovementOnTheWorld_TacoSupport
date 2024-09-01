@@ -16,26 +16,23 @@ ___List of Maps with Champion Markers___
 
 ___List of Maps In The Pack (MoW)___
 - All Core
-- Southsun Cove
-- Dry Top
-- The Silverwastes
+- All Living World Seasons 1 & 2
 - Verdant Brinks
+- Auric Basin
 
 ___Maps with Trails and Markers not tested (MoW)___
-- Fireheart Rise
 - Malchor's Leap
-- Cursed Shore
 - Iron Marches
 - Southsun Cove
 - The Silverwastes
 - Verdant Brinks
+- Auric Basin
 
 ___Trails without Informative Markers are also implemented for___
 
 
 ___Backstage Work In Progress___
-- Auric Bassin (30%)
-- Tangled Depth (10%)
+- Tangled Depth (15%)
 - Dragon's Stand (0%)
 
 __But What About Other Zones?__
