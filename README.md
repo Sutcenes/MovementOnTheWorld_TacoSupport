@@ -27,12 +27,12 @@ ___Maps with Trails and Markers not tested (MoW)___
 - The Silverwastes
 - Verdant Brinks
 - Auric Basin
+- Tangled Depth
 
 ___Trails without Informative Markers are also implemented for___
 
 
 ___Backstage Work In Progress___
-- Tangled Depth (15%)
 - Dragon's Stand (0%)
 
 __But What About Other Zones?__
