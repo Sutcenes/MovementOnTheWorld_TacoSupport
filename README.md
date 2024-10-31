@@ -19,6 +19,7 @@ ___List of Maps In The Pack (MoW)___
 - All Living World Seasons 1 & 2
 - Verdant Brinks
 - Auric Basin
+- Tangled Depths
 
 ___Maps with Trails and Markers not tested (MoW)___
 - Malchor's Leap
@@ -27,12 +28,14 @@ ___Maps with Trails and Markers not tested (MoW)___
 - The Silverwastes
 - Verdant Brinks
 - Auric Basin
-- Tangled Depth
+- Tangled Depths
 
 ___Trails without Informative Markers are also implemented for___
 
 
 ___Backstage Work In Progress___
+- Sirens' Landing
+- PoF (Path of Fire maps will come with a cross-zone holistic tour due to the nature of the expansion relying on the unlocking of mounts)
 - Dragon's Stand (0%)
 
 __But What About Other Zones?__
