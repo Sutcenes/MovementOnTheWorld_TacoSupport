@@ -49,6 +49,6 @@ Le *Movement On the World* (MoW) est un pack de guides pour Blish-HUD (module Pa
 
 🔹 Immersif et narratif : dialogues ambiants, lore caché, découvertes hors des sentiers battus.
 
-🔹 Exigeant et stimulant : on se frotte aux champiosn dès le départ, parfait pour bien apprendre le jeu ou pour un défis type permadeath.
+🔹 Exigeant et stimulant : on se frotte aux champions dès le départ, parfait pour bien apprendre le jeu ou pour un défis type permadeath.
 
 🔹 100 % bilingue : tous les guides sont traduits en français (enfin pas encore tous, mais on y arrive).
