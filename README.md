@@ -42,7 +42,7 @@ ___Backstage Work In Progress___
 __But What About Other Zones?__
 - Coming waaay later :D
 
----
+# Francais
 Le *Movement On the World* (MoW) est un pack de guides pour Blish-HUD (module Pathing) qui vous propose une façon unique d’explorer les cartes de Guild Wars 2.
 
 🔹 Basé sur les événements dynamiques : chaque parcours est construit pour suivre le rythme de la carte.
