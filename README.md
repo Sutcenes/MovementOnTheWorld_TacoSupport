@@ -1,4 +1,6 @@
 # Movement On The World (Blish-HUD // ~~TacO~~)
+![MoW_Logo](https://github.com/user-attachments/assets/f4aa7b41-fec4-44c2-8f4d-b603a10f552f)
+
 En francais plus bas/In French down below
 The Movement on the World tour map guides for Guildwars 2 on BLISH-HUD & TacO! (Oh no, TacO is not really supported anymore by this pack D:)
 
