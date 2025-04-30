@@ -39,7 +39,7 @@ ___Trails without Informative Markers are also implemented for___
 
 
 ___Backstage Work In Progress___
-- Sirens' Landing (0%)
+- Living World Season 3: LWS3 will come specifically designed for Aurora's collections.
 - PoF (Path of Fire maps will come with a cross-zone holistic tour due to the nature of the expansion relying on the unlocking of mounts)
 - Dragon's Stand (0%)
 
